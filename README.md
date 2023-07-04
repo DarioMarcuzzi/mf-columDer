@@ -1,7 +1,7 @@
 ## mf-columDer
 La microaplicación mf-columDer es parte de la aplicación MicroFrontQNEWSAPP. Proporciona una sección en la parte inferior derecha de la página donde se visualizan las organizaciones de noticias de donde se obtiene la información para las noticias. Esta sección permite filtrar las noticias por cada organización y explorar las últimas actualizaciones de cada una de ellas.
 
-## Tecnologias
+## Tecnologías
 <ul>
   <li>SingleSPA</li>
   <li>ReactJs</li>
